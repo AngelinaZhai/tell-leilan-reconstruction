@@ -8,11 +8,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - lvl2_wall
   - Water
   - UI
   - lvl4_floor
-  - 
+  - lvl4_wall
   - 
   - 
   - 
